@@ -5,7 +5,7 @@ Metacity is a set of tools for urban data visualization. The project is being de
 ## 🗺 Navigation
 - [📅 Roadmap](https://github.com/MetacitySuite/Roadmap)
 - [📝 Docs](https://metacitysuite.gitbook.io)
-- [📜 Code of Conduct](./CODE_OF_CONDUCT.md)
+- [📜 Code of Conduct](../CODE_OF_CONDUCT.md)
 
 
 ## 📃 Projects
