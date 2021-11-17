@@ -9,7 +9,7 @@ By combining **open data, simulation models and design thinking**, we want to pr
 
 
 ## 🗺 Navigation
-- [📅 Roadmap](https://github.com/MetacitySuite/Roadmap)
+- [📅 Plans, Ideas, Discussions](./README.md)
 - [📚 Knowledge Base and Docs](https://metacitysuite.gitbook.io)
 - [📜 Code of Conduct](./CODE_OF_CONDUCT.md)
 
