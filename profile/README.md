@@ -4,7 +4,7 @@ Metacity is a set of tools for urban data synthesis, analysis & visualization. O
 
 By combining open data, simulation models and design thinking, we want to provide:
 - a simple tool for general public to help them make better decisions about their own lives
-- an intuitive set of tools for decision-makers to help them make better decisions about urban development
+- an intuitive set of tools and services for decision-makers to help them make better decisions about urban development
 - a set of services for developers and architects to help them make better decisions about their own projects
 
 
