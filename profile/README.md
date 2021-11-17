@@ -8,12 +8,3 @@ Metacity is a set of tools for urban data visualization. The project is being de
 - [📜 Code of Conduct](../CODE_OF_CONDUCT.md)
 
 
-## 📃 Projects
-Currently, the project is focused on the following areas:
-
-* Urban data visualization and analysis
-* Synthetic population models
-* MATSim output processing and integration
-
-Feel free to contact us if you are interested in any of the areas listed above and willing to help us.
-
