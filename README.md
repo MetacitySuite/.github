@@ -1,6 +1,6 @@
-# Metacity Base ⛺️
+# Metacity Github Base ⛺️
 
-Welcome to Metacity Base. This repo serves as a base for brainstorming, discussions, and future planning. 
+Welcome to Metacity Github Base. This repo serves as a base for brainstorming, discussions, and future planning. 
 
 ## Bugs
 **If you found a bug**, feel free to open an issue in the repository which contains the buggy code. If you are not sure where to submit the issue, plase ask in the discussion in this repository.
