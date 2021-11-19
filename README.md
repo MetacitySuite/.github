@@ -9,7 +9,7 @@ Welcome to Metacity Github Base. This repo serves as a base for brainstorming, d
 - [📜 Code of Conduct](./CODE_OF_CONDUCT.md)
 
 ## Bugs
-**If you found a bug**, feel free to open an issue in the [repository](https://github.com/orgs/MetacitySuite/repositories) which contains the buggy code. If you are not sure where to submit the issue, ask in the [discussion section](https://github.com/MetacitySuite/.github/discussions).
+**If you find a bug**, feel free to open an issue in the [repository](https://github.com/orgs/MetacitySuite/repositories) which contains the buggy code. If you are not sure where to submit the issue, ask in the [discussion section](https://github.com/MetacitySuite/.github/discussions).
 
 ## Contributing, Discussing, and Planning
 1. [Start a discussion](https://github.com/MetacitySuite/.github/discussions) if you have a question, comment, or if you have a suggestion for a new feature/service/etc.
