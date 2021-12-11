@@ -237,26 +237,29 @@ Frontend Metacity iterace 2:
             ✔ přidat posuvník na čas @done(21-12-03 17:02)
             ✔ fast-forward, play, stop @done(21-12-03 17:02)
             ✔ uzpůsobit načítání zrychlenému přehrávání?  - podle performance @done(21-12-03 17:02)
-            ✔ mapování timeline na 3D terén @done(21-12-02 21:33)
+            ✔ mapování timeline na 3D terén @done(21-12-03 21:24)
     
     Other:
         ✔ cancelable tag @done(21-12-02 21:34)
-        ☐ Udělat průchod ui a opravit případné chyby
-        ☐ Upravit UI jobů
-        ☐ CI pro workspace
-        ☐ Integrace metacity a workspace přes CI
+        ✔ Udělat průchod ui a opravit případné chyby @done(21-12-11 10:26)
+        ✔ Upravit titulní stranu na ěnco více reprezentativního @done(21-12-11 10:26)
 
     Diplomka:
         ☐ 3D modely export
-            ☐ dodělat ui pro výběr oblasti
-            ☐ export a generování samostatné stránky s popisem projektu lego
+            ✔ tlačítko které zamkne pohyb kamerou, přepne do 2D a umožní výběr @done(21-12-11 10:26)
+            ✔ uživatel vybere, objeví se mu tlačítko submit @done(21-12-11 10:26)
+            ✔ export lego @done(21-12-11 10:26)
+            ✔ export obj model @done(21-12-11 10:26)
+            ✔ export složka vedle projekt (nebude to součást) @done(21-12-11 10:26)
 
-    Docs:
-        ☐ vykopírovat google docy do gitbooku
-
+        
 =================================================================================================================
 Future:
-    ☐ created job přejmenovat na queued nebo waiting
+    ✔ CI pro workspace @done(21-12-11 10:26)
+    ☐ Upravit UI jobů
+    ☐ Integrace metacity a workspace přes CI
+    ☐ vykopírovat google docy do gitbooku
+    ✔ created job přejmenovat na queued nebo waiting @done(21-12-11 10:26)
     ☐ nějak zvážit disable projektu při zpracování
     ☐ guide jak nahrávat soubory (shapefile všechny soubory)
     ☐ popsat workflow, jak funguje zpracování na serveru
