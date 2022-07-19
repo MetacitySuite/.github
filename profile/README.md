@@ -10,7 +10,6 @@ By combining **open data, simulation models and design thinking**, we want to pr
 
 ## 🗺 Navigation
 - [⛺️ Metacity Github Base (Discussions and Plans)](./README.md)
-- [📚 Knowledge Base and Docs](https://metacitysuite.gitbook.io)
 - [📜 Code of Conduct](./CODE_OF_CONDUCT.md)
 
 ---
